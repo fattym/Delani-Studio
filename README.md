@@ -10,8 +10,8 @@
 1. Moringa TM's ; Mentors
 1. Moringa Students ; Assistant designers
 ## Description
-<img src="./img/st.jpg" >
 
+<img src="./img/st.jpg" width="" >
 ## Setup/Installation Requirements
 * Fork the repo
 * Create a new branch (git checkout -b improve-feature)
