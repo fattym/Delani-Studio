@@ -12,6 +12,7 @@
 ## Description
 
 <img src="./img/st.jpg" width="" >
+
 ## Setup/Installation Requirements
 * Fork the repo
 * Create a new branch (git checkout -b improve-feature)
@@ -20,6 +21,7 @@
 * Commit your changes (git commit -am 'Improve feature')
 * Push to the branch (git push origin improve-feature)
 * Create a Pull Request
+
 ## Known Bugs
 If you find a bug (the website couldn't handle the query and / or gave undesired results), kindly open an issue here by including your search query and the expected result.
 
